@@ -13,7 +13,7 @@ module.exports = {
     output: {
         path: dist,
         filename: 'bundle.js',
-        publicPath: "/static/"
+        publicPath: "static/"
     },
 
     module: {
