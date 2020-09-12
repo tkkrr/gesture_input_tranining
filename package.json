@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "favicons-webpack-plugin": "^2.x.x",
     "konva": "^4.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "raw-loader": "^4.0.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
