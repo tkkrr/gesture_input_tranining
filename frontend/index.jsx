@@ -76,6 +76,7 @@ class App extends React.Component {
 
 
     onKeyDown(e) {
+        console.log(e.keyCode)
         const char = keyCodeString[e.keyCode]
         if( char.match(/[^a-zA-Z .,:;@0-9_]/) )return // 通常のキー入力で入力されると考えられる文字以外は弾く
 
